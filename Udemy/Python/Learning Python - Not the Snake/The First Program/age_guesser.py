@@ -1,3 +1,12 @@
+"""
+This program is from Udemy Learning Python - Not the snake Course where you take
+some variables from the user and after some calculations return their age.
+variables - first_name - string
+            first_num - int,
+            second_num - int
+            num1 = storage for first set of calculations
+            num2 = storage for second set of calculations
+"""
 print "Hello, what is your first name?"
 first_name = str(raw_input(">>"))
 print "So %s, I will now guess your age!!" % first_name
